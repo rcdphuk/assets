@@ -1,0 +1,83 @@
+.
+├── blockchains
+│   └──ethereum
+│   │   └──assets
+│   │   │  └──0x0a2D9370cF74Da3FD3dF5d764e394Ca8205C50B6 // address folder
+│   │   │     └──logo.png  // token logo
+|   |   |     └──info.json  // optional token info
+│   │   └──info
+│   │   │  └──logo.png   // chain coin logo
+|   |   │  └──info.json  // chain coin info
+│   │   └──allowlist.json  // list of accepted tokens
+│   │   └──denylist.json  // list of blocked tokens
+|   |
+|   └──binance
+│   │   └──assets
+│   │   │  └──ONE-5F9
+│   │   │     └──logo.png
+|   |   |     └──info.json
+│   │   └──info
+│   │      └──logo.png
+|   └──tron
+│   |  └──assets
+│   |  │  └──1002000
+│   |  │  |   └──logo.png
+|   |  |  |   └──info.json
+|   |  |  └──TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
+|   |  |      └──logo.png
+|   |  |      └──info.json
+|   |  | 
+│   |  └──info
+│   |     └──logo.png
+|   |     └──info.json 
+|   |
+|   └──cosmos
+│   │   └──info
+|   |   |  └──logo.png
+|   |   |  └──info.json
+|   |   |
+│   │   └──validators
+│   │   |  └──assets
+|   |   |     └──cosmosvaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4epsluffn
+|   |   |        └──logo.png
+|   |   |
+|   |   └──list.json
+├── ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILLION MILES WILL BE FIRST LISTING EXCHANGE AT PANCAKESW
